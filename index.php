@@ -60,7 +60,7 @@ if ($stmt === false) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Employee Management</title>
+    <title>Employee Management </title>
     <style>
         table {
             border-collapse: collapse;
