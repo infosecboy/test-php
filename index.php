@@ -1,9 +1,9 @@
 <?php
 // Connection details
-$serverName = "tcp:10.0.1.4,1433";
+$serverName = "tcp:public-db-cloud-assignment.database.windows.net,1433";
 $connectionOptions = array(
-    "Database" => "MySQLDB",
-    "Uid" => "mysquser",
+    "Database" => "publicdb",
+    "Uid" => "mysq",
     "PWD" => "HPpavilion15$"
 );
 
